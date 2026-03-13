@@ -248,7 +248,7 @@ h2 {
 }
 
 .hero-sub {
-  color: var(--gold-60);
+  color: var(--gold-light);
   font-size: 18px;
   max-width: 580px;
   margin: 0 auto 40px;
