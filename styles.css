@@ -27,7 +27,7 @@
 html { scroll-behavior: smooth; }
 
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: 'Monstreat', sans-serif;
   background: var(--navy);
   color: white;
   min-height: 100vh;
@@ -248,7 +248,7 @@ h2 {
 }
 
 .hero-sub {
-  color: var(--gold-light);
+  color: var(--white-35);
   font-size: 18px;
   max-width: 580px;
   margin: 0 auto 40px;
