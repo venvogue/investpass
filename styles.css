@@ -28,7 +28,7 @@
 html { scroll-behavior: smooth; }
 
 body {
-  font-family: 'Monstreat', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background: var(--navy);
   color: white;
   min-height: 100vh;
@@ -73,7 +73,7 @@ img { display: block; max-width: 100%; }
 .max-480     { max-width: 480px; }
 
 /* ─── Typography ─────────────────────────────────── */
-h1, h2, h3 { line-height: 1.15; letter-spacing: -0.02em; }
+h1, h2, h3 { line-height: 1.15; letter-spacing: 0.01em; }
 
 h2 {
   font-size: 38px;
