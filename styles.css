@@ -11,6 +11,7 @@
   --navy-light: #0f2444;
   --navy-dark:  #040c18;
   --gold:       #d4af37;
+  --logo-teal:  #ADDDFF;
   --gold-light: #FBFDD3;
   --gold-grad:  linear-gradient(135deg, #d4af37, #f0cc5a);
   --white-90:   rgba(255,255,255,0.90);
@@ -237,7 +238,8 @@ h2 {
 
 .hero-h1 {
   font-size: 40px;
-  font-weight: 400;
+  color:   var(--logo-teal);       
+  font-weight: 200;
   line-height: 1.3;
   letter-spacing: -0.0.2em;
   margin-bottom: 24px;
