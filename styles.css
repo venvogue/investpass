@@ -648,7 +648,7 @@ h2 {
 
 .cat-text { padding: 14px 16px 18px; text-align: center; }
 .cat-label { font-weight: 700; font-size: 13px; color: var(--white-90); margin-bottom: 6px; }
-.cat-desc  { color: var(--white-60); font-size: 11px; line-height: 1.55; }
+.cat-desc  { color: var(--white-90); font-size: 11px; line-height: 1.55; }
 
 .disclaimer-bar {
   background: var(--gold-bg);
